@@ -8,7 +8,7 @@ netStatsApp.controller('StatsCtrl', function($scope, $filter, $localStorage, soc
 	// Main Stats init
 	// ---------------
 
-	$scope.frontierHash = '0x11bbe8db4e347b4e8c937c1c8370e4b5ed33adb3db69cbdb7a38e1e50b1b82fa';
+	$scope.frontierHash = '0x37781d08f531c662829cbf5c8bfaf8f1b475d9c1fd0cc1004a256e6b49c72276';
 	$scope.nodesTotal = 0;
 	$scope.nodesActive = 0;
 	$scope.bestBlock = 0;

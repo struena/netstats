@@ -16,7 +16,7 @@ var MAX_BINS = 40;
 
 Blockchain.insert({
 	_id: 'meta',
-	frontierHash: '0x11bbe8db4e347b4e8c937c1c8370e4b5ed33adb3db69cbdb7a38e1e50b1b82fa',
+	frontierHash: '0x37781d08f531c662829cbf5c8bfaf8f1b475d9c1fd0cc1004a256e6b49c72276',
 	nodesTotal: 0,
 	nodesActive: 0,
 	bestBlock: 0,
